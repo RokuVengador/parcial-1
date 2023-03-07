@@ -1,0 +1,15 @@
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\bin\Debug\net6.0\PARCIAL1.exe
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\bin\Debug\net6.0\PARCIAL1.deps.json
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\bin\Debug\net6.0\PARCIAL1.runtimeconfig.json
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\bin\Debug\net6.0\PARCIAL1.dll
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\bin\Debug\net6.0\PARCIAL1.pdb
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\obj\Debug\net6.0\PARCIAL1.csproj.AssemblyReference.cache
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\obj\Debug\net6.0\PARCIAL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\obj\Debug\net6.0\PARCIAL1.AssemblyInfoInputs.cache
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\obj\Debug\net6.0\PARCIAL1.AssemblyInfo.cs
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\obj\Debug\net6.0\PARCIAL1.csproj.CoreCompileInputs.cache
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\obj\Debug\net6.0\PARCIAL1.dll
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\obj\Debug\net6.0\refint\PARCIAL1.dll
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\obj\Debug\net6.0\PARCIAL1.pdb
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\obj\Debug\net6.0\PARCIAL1.genruntimeconfig.cache
+C:\Users\medga\source\repos\PARCIAL1\PARCIAL1\obj\Debug\net6.0\ref\PARCIAL1.dll
